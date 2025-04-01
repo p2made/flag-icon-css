@@ -5,6 +5,10 @@ A fork of [flag-icons](https://github.com/lipis/flag-icons
 
 This fork will continue as an independent project. The first step will be to implement flag icons using Emoji to elimate the download weight of many SVG files. After that SVGs will only be used where no Emoji is available.
 
+# 🚨‼️ Don't go using this yet ‼️🚨
+
+This notice will disappear when I have a starting level of usability & close my current working branch.
+
 --
 
 # Legacy Documentation 👇
